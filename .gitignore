@@ -131,7 +131,8 @@ dmypy.json
 # data
 data/Landing Layer
 data/Raw Layer
-data/
+data/Curated Layer
+data/Development Layer
 
 # OSX .DS_Store file
 .DS_Store
